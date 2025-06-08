@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ZRILL TOPUP</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            margin: 0; padding: 0;
+        }
+        header {
+            background: #0077cc;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        .promo {
+            background: #ffd54f;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: bold;
+            color: #333;
+        }
+        .games {
+            list-style: none;
+            padding: 0;
+        }
+        .games li {
+            background: white;
+            margin-bottom: 10px;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            font-weight: 600;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #0077cc;
+            color: white;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ZRILL TOPUP</h1>
+        <p>Top up semua game favorit kamu dengan promo menarik!</p>
+    </header>
+    <main>
+        <div class="promo">
+            Promo Khusus Hari Ini: Diskon 50% untuk semua game!
+        </div>
+        <h2>Game yang tersedia:</h2>
+        <ul class="games">
+            <li>Mobile Legends (ML) - WDP</li>
+            <li>Free Fire (FF) - Membership</li>
+            <li>Roblox</li>
+            <li>Genshin Impact</li>
+            <li>Call of Duty Mobile</li>
+            <li>Valorant</li>
+            <li>Dan lain-lain...</li>
+        </ul>
+    </main>
+    <footer>
+        &copy; 2025 ZRILL TOPUP. All rights reserved.
+    </footer>
+</body>
+</html>
